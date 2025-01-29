@@ -26,4 +26,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0183-customers-who-never-order) |
 | [1161-project-employees-i](https://github.com/Sunkara-Srinivas/leetcode/tree/master/1161-project-employees-i) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/Sunkara-Srinivas/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
