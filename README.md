@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0202-happy-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Matrix
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Sunkara-Srinivas/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Sunkara-Srinivas/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1541-top-travellers](https://github.com/Sunkara-Srinivas/leetcode/tree/master/1541-top-travellers) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
