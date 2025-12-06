@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0204-count-primes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0204-count-primes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sunkara-Srinivas/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0263-ugly-number) |
 ## Two Pointers
 |  |
@@ -47,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3396-valid-word](https://github.com/Sunkara-Srinivas/leetcode/tree/master/3396-valid-word) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
