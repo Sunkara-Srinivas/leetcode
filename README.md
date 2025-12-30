@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sunkara-Srinivas/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sunkara-Srinivas/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Sunkara-Srinivas/leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Sunkara-Srinivas/leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## String
 |  |
@@ -82,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
