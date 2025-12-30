@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sunkara-Srinivas/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sunkara-Srinivas/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Sunkara-Srinivas/leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Sunkara-Srinivas/leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## String
 |  |
 | ------- |
