@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sunkara-Srinivas/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sunkara-Srinivas/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Sunkara-Srinivas/leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Sunkara-Srinivas/leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## String
 |  |
@@ -86,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2592-maximize-greatness-of-an-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Bit Manipulation
 |  |
