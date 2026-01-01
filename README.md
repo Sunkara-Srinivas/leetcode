@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0204-count-primes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0263-ugly-number) |
