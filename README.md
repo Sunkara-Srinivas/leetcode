@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0832-flipping-an-image](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0832-flipping-an-image) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sunkara-Srinivas/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sunkara-Srinivas/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Matrix
 |  |
 | ------- |
