@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Matrix
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0242-valid-anagram) |
 | [3396-valid-word](https://github.com/Sunkara-Srinivas/leetcode/tree/master/3396-valid-word) |
 ## Enumeration
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0242-valid-anagram) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Sunkara-Srinivas/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sunkara-Srinivas/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
