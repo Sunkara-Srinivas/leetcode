@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0202-happy-number) |
 | [0832-flipping-an-image](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0832-flipping-an-image) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3396-valid-word](https://github.com/Sunkara-Srinivas/leetcode/tree/master/3396-valid-word) |
 ## Enumeration
 |  |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0832-flipping-an-image) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sunkara-Srinivas/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
